@@ -1,0 +1,102 @@
+
+.uni-swipe.data-v-bb66970c {
+	overflow: hidden;
+}
+.uni-swipe-box.data-v-bb66970c {
+	position: relative;
+	width: 100%;
+}
+.uni-swipe_content.data-v-bb66970c {
+	flex: 1;
+	position: relative;
+}
+.uni-swipe_move-box.data-v-bb66970c {
+
+	display: flex;
+
+	position: relative;
+	flex-direction: row;
+}
+.uni-swipe_box.data-v-bb66970c {
+
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	flex-shrink: 0;
+
+
+
+
+	font-size: 14px;
+	background-color: #fff;
+}
+.uni-swipe_button-group.data-v-bb66970c {
+
+
+
+
+
+
+
+
+	display: flex;
+	flex-shrink: 0;
+
+	flex-direction: row;
+}
+.uni-swipe_button.data-v-bb66970c {
+
+
+
+
+
+
+
+	display: flex;
+
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 0 20px;
+}
+.uni-swipe_button-text.data-v-bb66970c {
+
+	flex-shrink: 0;
+
+	font-size: 14px;
+}
+.ani.data-v-bb66970c {
+	transition-property: -webkit-transform;
+	transition-property: transform;
+	transition-property: transform, -webkit-transform;
+	transition-duration: 0.3s;
+	transition-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

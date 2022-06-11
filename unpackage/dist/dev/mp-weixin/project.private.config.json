@@ -1,0 +1,56 @@
+{
+  "projectname": "uniShop",
+  "setting": {
+    "compileHotReLoad": false,
+    "urlCheck": false
+  },
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "cate页面",
+          "pathName": "pages/cate/cate",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "search页",
+          "pathName": "subpkg/search/search",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "goodsList页",
+          "pathName": "subpkg/goods_list/goods_list",
+          "query": "cid=8",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "goods_detail页",
+          "pathName": "subpkg/goods_detail/goods_detail",
+          "query": "goods_id=52341",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "cart页面",
+          "pathName": "pages/cart/cart",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "my页面",
+          "pathName": "pages/my/my",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
